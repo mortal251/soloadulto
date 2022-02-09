@@ -1,6 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlxV2hIhjNXzPDfPp4Gtn-VFR4vuqeMe5v2gOM-BngdlP_NHLCEQGk6mcQoUbi1hWAejc&usqp=CAU" group-title="ADULTO", HUSTLER
+http://3dff4cc4.ucomist.net/iptv/HN7Y79UXUNDQV8/244/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlxV2hIhjNXzPDfPp4Gtn-VFR4vuqeMe5v2gOM-BngdlP_NHLCEQGk6mcQoUbi1hWAejc&usqp=CAU" group-title="ADULTO", PLAYBOY
+http://3dff4cc4.ucomist.net/iptv/HN7Y79UXUNDQV8/527/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlrcyMe.png" group-title="ADULTO", JENNY LIVE TV
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
